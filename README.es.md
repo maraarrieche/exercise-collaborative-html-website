@@ -1,3 +1,15 @@
+Grupo 1:
+1- Contact -> Mariana
+2- 1st Heading -> Hussein
+3- Navbar -> Daniela
+4- Portfolio -> Anderson
+5- Services -> Mariana
+6- Tagline -> Euclides
+
+
+
+
+
 # Sitio Web colaborativo (Git collaboration)
 
 Practica tus habilidades en GIT mientras desarrollas un típico sitio web.
